@@ -36,3 +36,9 @@
         transform: rotate(360deg);
     }
 }
+
+.App-description {
+    margin: 0 auto;
+    max-width: 1140px;
+    text-align: left;
+}
